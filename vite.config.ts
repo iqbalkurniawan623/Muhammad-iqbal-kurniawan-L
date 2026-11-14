@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/Muhammad-iqbal-kurniawan-L/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
