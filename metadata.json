@@ -1,0 +1,6 @@
+{
+  "name": "Komorebi: Cloud Island Bloom",
+  "description": "Game puzzle ekosistem pulau melayang bergaya Ghibli pixel art yang memadukan mekanika mekarnya bunga sakura dengan algoritma Breadth-First Search (BFS) dan Depth-First Search (DFS).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
